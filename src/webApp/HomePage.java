@@ -12,6 +12,9 @@ public class HomePage {
 
     //add more things
     // footer
+    // more sale item added
+    //  holidays sales 25% off
+    //deal
 
 
 }
